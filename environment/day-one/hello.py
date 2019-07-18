@@ -1,0 +1,5 @@
+print("My name is Mary.")
+print("I live in Brooklyn, New York.")
+print("My birthday is on August first.")
+print("I am a Leo.")
+print("My favorite season is summer!")
